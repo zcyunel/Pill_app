@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">LoginAndSignUp</string>
+
+    <string name="title_activity_add">Add a new pill</string>
+    <string name="name_form">Pill Name</string>
+    <string name="date_form">Date</string>
+    <string name="url_form">Url image</string>
+    <string name="description_form">Descripcion</string>
+    <string name="save">Add</string>
+
+    <string name="title_activity_main">Pills List</string>
+    <string name="subtitle_activity_main">Pills you have to take</string>
+
+    <string name="all">TODO</string>
+    <string name="name">Pill to take</string>
+    <string name="date">02.02.2023</string>
+    <string name="description">Description of a pill to take</string>
+
+    <string name="title_activity_edit">Edit data of your pill</string>
+    <string name="update">Update</string>
+
+</resources>
